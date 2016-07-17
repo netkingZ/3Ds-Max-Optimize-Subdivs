@@ -9,7 +9,7 @@ Features:
 - 
 # How to Install?
 
-Drag and Drop Optmize-Subdivs script in your 3Ds Max seen </br>
+Drag and Drop Optmize-Subdivs script in your 3Ds Max screen </br>
 Copy and paste script in : C:/Programs/Autodesk/3ds Max (year)/scripts
 
 # Credits
