@@ -11,6 +11,6 @@ Features:
 Drug and Drop Optmize-Subdivs plugin in your 3Ds Max seen
 
 # Credits
-Eduardo "netkingZ" Bartali
+Eduardo "netkingZ" Bartali</br>
 email: bartali.eduardo@gmail.com
 
