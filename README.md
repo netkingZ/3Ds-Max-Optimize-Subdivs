@@ -8,5 +8,9 @@ Features:
 - 
 # How to Install?
 
-Drug and Drop Optmize-Subdivs pplugin in your 3Ds Max seen
+Drug and Drop Optmize-Subdivs plugin in your 3Ds Max seen
+
+# Credits
+Eduardo "netkingZ" Bartali
+email: bartali.eduardo@gmail.com
 
