@@ -5,3 +5,8 @@ Do you need to change all Subdivs for all materials? Optimize Subdivs help you.
 Features: 
 - Optimize Reflection Subdivs of all Materials 
 - Optimize Refraction Subdivs of all Materials
+- 
+# How to Install?
+
+Drug and Drop Optmize-Subdivs pplugin in your 3Ds Max seen
+
