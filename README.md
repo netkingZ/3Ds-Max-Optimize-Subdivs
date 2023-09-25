@@ -14,5 +14,5 @@ Copy and paste script in : C:/Programs/Autodesk/3ds Max (year)/scripts
 
 # Credits
 Eduardo "netkingZ" Bartali</br>
-email: bartali.eduardo@gmail.com
+email: bartalieduardo@gmail.com
 
